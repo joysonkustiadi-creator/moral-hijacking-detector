@@ -178,8 +178,7 @@ If you use this work, please cite:
 ```
 Kustiadi, J. J., Wijaya, K. R., Kusuma, R. W. A., Margi, K., & Siswanto, R. R. (2026).
 Dynamic Moral Trajectory for Emotional Manipulation Detection using Moral Foundation Theory.
-ICIMTech 2026: International Conference on Information Management and Technology.
-Bina Nusantara University, Jakarta, Indonesia.
+Unpublished manuscript. School of Computer Science, Bina Nusantara University, Jakarta, Indonesia.
 ```
 
 ---
